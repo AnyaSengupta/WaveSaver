@@ -1,0 +1,208 @@
+NAME,COUNTY,LAT,LON,TIDE
+San Carlos,TWC0399,24.7833,-112.1167,1
+Isla Guadalupe,TWC0401,28.8833,-116.3,1
+Ensenada: Todos Santos Bay,TWC0403,31.85,-116.6333,1
+Imperial Beach,9410120,32.5783,-117.135,1
+Point Loma,TWC0405,32.6667,-117.2333,1
+San Diego: Quarantine Station,9410166,32.7033,-117.235,1
+SAN DIEGO (Broadway),9410170,32.7142,-117.1736,2
+National City: San Diego Bay,9410152,32.665,-117.118,1
+South San Diego Bay,9410135,32.6291,-117.1078,2
+Quivira Basin: Mission Bay,TWC0413,32.7667,-117.2333,1
+Mission Bay: Campland,9410196,32.7937,-117.2238,3
+La Jolla (Scripps Institution Wharf),9410230,32.8669,-117.2571,2
+San Clemente,TWC0419,33.4167,-117.6167,1
+Newport Bay Entrance: Corona del Mar,9410580,33.6033,-117.883,2
+Balboa Pier: Newport Beach,9410583,33.6,-117.9,1
+Santa Ana River entrance (inside),9410599,33.63,-117.958,1
+Los Patos (highway bridge),TWC0427,33.7167,-118.05,1
+Long Beach: Terminal Island,9410680,33.7517,-118.227,2
+Long Beach: Inner Harbor,9410686,33.7717,-118.21,1
+Cabrillo Beach,9410650,33.7067,-118.273,1
+LOS ANGELES (Outer Harbor),9410660,33.7199,-118.2729,2
+Los Angeles Harbor: Mormon Island,TWC0439,33.75,-118.2667,1
+King Harbor: Santa Monica Bay,9410738,33.8467,-118.398,1
+El Segundo: Santa Monica Bay,9410777,33.9083,-118.433,1
+Santa Monica: Municipal Pier,9410840,34.0083,-118.5,2
+Mugu Lagoon (ocean pier),TWC0445,34.1,-119.1,1
+Port Hueneme,9411065,34.1483,-119.203,1
+Ventura,9411189,34.2667,-119.283,1
+Rincon Island: Mussel Shoals,9411270,34.3483,-119.443,1
+Santa Barbara,9411340,34.4031,-119.6928,2
+Gaviota State Park: Pacific Ocean,9411399,34.4694,-120.2283,2
+Oil Platform Harvest,9411406,34.4692,-120.6819,2
+Wilson Cove: San Clemente Island,9410032,33.005,-118.557,3
+Catalina Harbor: Santa Catalina Island,9410092,33.4317,-118.503,3
+Avalon: Santa Catalina Island,9410079,33.345,-118.325,2
+Santa Barbara Island,TWC0463,33.4833,-119.0333,3
+San Nicolas Island,9410068,33.2667,-119.497,3
+Prisoners Harbor: Santa Cruz Island,9410971,34.02,-119.683,3
+Bechers Bay: Santa Rosa Island,9410962,34.0083,-120.047,3
+Cuyler Harbor: San Miguel Island,9410988,34.0567,-120.355,2
+Point Arguello,TWC0473,34.5833,-120.65,2
+PORT SAN LUIS,9412110,35.1688,-120.7542,2
+San Simeon,9412553,35.6417,-121.188,1
+Mansfield Cone,9412802,35.9495,-121.4819,2
+Carmel Cove: Carmel Bay,9413375,36.52,-121.94,1
+MONTEREY: MONTEREY BAY,9413450,36.605,-121.8881,2
+General Fish Company Pier,9413617,36.8017,-121.787,1
+Moss Landing: Ocean Pier,9413616,36.8017,-121.79,1
+Elkhorn Yacht Club,9413626,36.8133,-121.787,1
+Elkhorn Slough: Highway 1 Bridge,9413623,36.81,-121.785,1
+Pacific Mariculture Dock,9413624,36.8133,-121.758,1
+Elkhorn: Elkhorn Slough,9413631,36.8183,-121.747,2
+Tidal Creek: Elkhorn Slough,9413643,36.8333,-121.745,2
+Kirby Park: Elkhorn Slough,9413651,36.8413,-121.7453,3
+Elkhorn Slough railroad bridge,9413663,36.8567,-121.755,2
+Santa Cruz: Monterey Bay,9413745,36.9583,-122.017,1
+Ano Nuevo Island,9413878,37.1083,-122.338,1
+Pillar Point Harbor: Half Moon Bay,9414131,37.5025,-122.4822,2
+Southeast Farallon Island,9414262,37.7,-123,1
+San Francisco Bar,TWC0509,37.7667,-122.6333,1
+Ocean Beach: outer coast,9414275,37.775,-122.513,1
+Point Bonita: Bonita Cove,9414906,37.8183,-122.528,1
+SAN FRANCISCO (Golden Gate),9414290,37.8063,-122.4659,2
+Alcatraz Island,9414792,37.8267,-122.417,1
+San Francisco: North Point: Pier 41,9414305,37.81,-122.413,1
+Rincon Point: Pier 22 1/2,9414317,37.79,-122.387,2
+Yerba Buena Island,9414782,37.81,-122.36,1
+Oakland: Matson Wharf,9414779,37.81,-122.327,1
+Oakland Middle Harbor,9414777,37.805,-122.338,1
+Oakland Pier,9414765,37.795,-122.33,1
+Oakland Inner Harbor,9414764,37.795,-122.282,2
+Alameda Naval Air Station,9414767,37.7933,-122.315,1
+Alameda,9414750,37.7717,-122.3,2
+Oakland Harbor: Grove Street,9414763,37.795,-122.283,1
+Oakland Harbor: Park Street Bridge,9414746,37.7717,-122.235,2
+San Leandro Channel: San Leandro Bay,9414724,37.7483,-122.235,1
+Oakland Airport,9414711,37.7317,-122.208,1
+Potrero Point,9414334,37.7583,-122.383,1
+Hunters Point,9414358,37.73,-122.357,2
+San Leandro Marina,9414688,37.695,-122.192,2
+Roberts Landing: 1.3 miles west of,TWC0547,37.6667,-122.2,1
+South San Francisco,9414391,37.6667,-122.39,1
+Oyster Point Marina,9414392,37.665,-122.377,1
+Point San Bruno,9414402,37.65,-122.377,1
+Seaplane Harbor,9414413,37.6367,-122.383,1
+Coyote Point Marina,9414449,37.5917,-122.313,1
+San Mateo Bridge (west end),9414458,37.58,-122.253,2
+San Mateo Bridge (east end),9414637,37.6083,-122.182,1
+Alameda Creek,9414632,37.595,-122.145,1
+Coyote Hills Slough entrance,9414621,37.5633,-122.128,1
+Bay Slough: west end,9414483,37.5517,-122.243,1
+Bay Slough: east end,9414486,37.545,-122.222,1
+Redwood Creek Marker 8,9414501,37.5333,-122.193,1
+South Bay Wreck,9414609,37.5517,-122.162,1
+Corkscrew Slough,9414505,37.5083,-122.21,1
+Redwood City: Wharf 5,9414523,37.5067,-122.21,2
+West Point Slough,9414507,37.505,-122.192,1
+Smith Slough,9414511,37.5017,-122.223,1
+Newark Slough,9414506,37.5133,-122.08,1
+Dumbarton Highway Bridge,9414509,37.5067,-122.115,2
+Granite Rock: Redwood Creek,9414513,37.495,-122.213,1
+Palo Alto Yacht Harbor,9414525,37.4583,-122.105,1
+Mowry Slough,9414519,37.4933,-122.042,1
+Calaveras Point: west of,9414539,37.4667,-122.067,1
+Upper Guadalupe Slough,9414549,37.435,-122.007,1
+Coyote Creek: Alviso Slough,9414575,37.465,-122.023,2
+Gold Street Bridge: Alviso Slough,9414551,37.4233,-121.975,1
+Coyote Creek: Tributary no.1,9414561,37.4467,-121.963,1
+Sausalito,9414806,37.8467,-122.477,1
+Sausalito: Corps of Engineers Dock,9414819,37.865,-122.493,1
+Angel Island (west side),9414817,37.86,-122.443,1
+Angel Island: East Garrison,9414818,37.8633,-122.42,1
+Point Chauncey,9414837,37.8917,-122.443,1
+Berkeley,9414816,37.865,-122.307,2
+Point Isabel,9414843,37.8983,-122.32,1
+Richmond Inner Harbor,9414849,37.91,-122.358,1
+Chevron Oil Company Pier: Richmond,9414863,37.923,-122.4096,2
+Point Orient,9414881,37.9583,-122.425,1
+Corte Madera Creek,9414874,37.9433,-122.513,2
+Point San Quentin,9414873,37.945,-122.475,1
+Mare Island,9415218,38.07,-122.25,2
+Vallejo: Mare Island Strait,9415165,38.1117,-122.273,1
+Edgerley Island: Napa River,9415415,38.1917,-122.312,1
+Brazos Drawbridge: Napa River,9415446,38.21,-122.307,1
+Napa: Napa River,9415623,38.2983,-122.28,1
+Selby,9415142,38.0583,-122.243,1
+Crockett,9415143,38.0583,-122.223,2
+Benicia,9415111,38.0433,-122.13,1
+Martinez-Amorco Pier,9415102,38.0346,-122.1252,2
+Suisun Slough entrance,9415265,38.1283,-122.073,2
+Pierce Harbor: Goodyear Slough,9415266,38.1267,-122.1,1
+Joice Island: Suisun Slough,9415379,38.18,-122.045,1
+Suisun City: Suisun Slough,9415498,38.2367,-122.03,1
+PORT CHICAGO: SUISUN BAY,9415144,38.056,-122.0395,2
+Montezuma Slough Bridge,9415402,38.1867,-121.98,1
+Bradmoor Island: Nurse Slough,9414811,38.1833,-121.923,2
+Meins Landing: Montezuma Slough,9415307,38.1367,-121.907,1
+Montezuma Slough,9415205,38.0767,-121.885,1
+Point Buckler,9415227,38.1,-122.033,1
+Mallard Island Ferry Wharf,9415112,38.0433,-121.918,2
+Pittsburg: New York Slough,9415096,38.0367,-121.88,1
+Antioch,9415064,38.02,-121.815,2
+Threemile Slough entrance,9415193,38.0867,-121.685,1
+Prisoners Point,9415149,38.0617,-121.555,1
+Wards Island: Little Connection Slough,9415105,38.05,-121.4969,1
+Blackslough Landing,9415021,37.9947,-121.419,1
+Stockton,9414883,37.9583,-121.29,1
+Georgiana Slough entrance,9415287,38.125,-121.578,1
+Terminous: South Fork,9415257,38.11,-121.498,1
+New Hope Bridge,9415478,38.2267,-121.49,1
+Bishop Cut: Disappointment Slough,9415117,38.045,-121.42,1
+False River,9415145,38.055,-121.657,1
+Dutch Slough,9415053,38.0117,-121.638,1
+Irish Landing: Sand Mound Slough,9415095,38.0333,-121.583,1
+Orwood: Old River,9414868,37.9383,-121.56,1
+Holt: Whiskey Slough,9414866,37.935,-121.435,1
+Borden Highway Bridge: Old River,9414836,37.8833,-121.577,1
+Borden Highway Bridge: Middle River,9414835,37.8917,-121.488,1
+Borden Highway Bridge: San Joaquin River,9414367,37.9367,-121.3333,1
+Grant Line Canal (drawbridge),9414785,37.82,-121.447,1
+Collinsville,9415176,38.0733,-121.848,1
+Threemile Slough,9415236,38.1067,-121.7,1
+Rio Vista,9415316,38.145,-121.692,2
+Steamboat Slough: Snug Harbor Marina,9415414,38.1833,-121.655,1
+Snodgrass Slough,9415565,38.2767,-121.495,1
+Clarksburg,9415846,38.4167,-121.523,1
+Sacramento,9416174,38.58,-121.507,1
+Point San Pedro,9415009,37.9933,-122.447,1
+Pinole Point,9415056,38.015,-122.363,2
+Hercules: Refugio Landing,9415074,38.0233,-122.292,1
+Petaluma River entrance,9415252,38.1153,-122.5057,1
+Lakeville: Petaluma River,TWC0649,38.2,-122.5667,1
+Upper drawbridge: Petaluma River,9415584,38.2283,-122.613,1
+Gallinas: Gallinas Creek,9415052,38.015,-122.503,1
+Hog Island: San Antonio Creek,9415344,38.1617,-122.55,1
+Sonoma Creek,9415338,38.1567,-122.407,2
+Wingo: Sonoma Creek,9415447,38.21,-122.427,1
+Bolinas Lagoon,9414958,37.9078,-122.6786,2
+Point Reyes,9415020,37.9961,-122.9767,2
+Tomales Bay entrance,9415469,38.2283,-122.977,1
+Blakes Landing: Tomales Bay,9415396,38.19,-122.917,1
+Marshall: Tomales Bay,9415339,38.1617,-122.893,1
+Reynolds: Tomales Bay,9415320,38.1467,-122.883,1
+Inverness: Tomales Bay,9415228,38.1133,-122.868,1
+Bodega Harbor entrance,9415625,38.3083,-123.055,1
+Fort Ross,9416024,38.5133,-123.245,1
+Green Cove,9416409,38.7043,-123.4494,2
+ARENA COVE,9416841,38.9146,-123.7111,2
+Point Arena,TWC0771,38.95,-123.7333,1
+NOYO HARBOR,9417426,39.4258,-123.8051,2
+Mendocino: Mendocino Bay,TWC0777,39.3,-123.8,1
+Westport,9417624,39.6333,-123.783,1
+Shelter Cove,9418024,40.025,-124.058,2
+Cockrobin Island Bridge: Eel River,9418637,40.6372,-124.2822,2
+HUMBOLDT BAY (North Spit),9418767,40.7663,-124.2172,2
+Fields Landing,9418723,40.7233,-124.222,3
+Hookton Slough,9418686,40.6867,-124.222,1
+Elk River Railroad Bridge,9418757,40.7567,-124.193,1
+Bucksport,9418778,40.7783,-124.197,1
+Eureka,9418801,40.8067,-124.167,1
+Eureka Slough Bridge,9418802,40.8067,-124.142,1
+Samoa,9418817,40.8267,-124.18,2
+Arcata Wharf,9418851,40.85,-124.117,1
+Mad River Slough: Arcata Bay,9418865,40.865,-124.148,1
+Trinidad Harbor,9419059,41.0567,-124.147,1
+CRESCENT CITY,9419750,41.745,-124.183,2
+Pyramid Point: Smith River,9419945,41.9453,-124.2009,2
